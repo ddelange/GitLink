@@ -89,6 +89,7 @@ GNU [Savannah][][^cgit],
 [Launchpad][][^cgit],
 [Kernel.org][][^cgit],
 [KDE][][^gitlab],
+[Ourproject.org][][^fusionforge],
 Fedora [Pagure][],
 [Phabricator][],
 [Phorge][],
@@ -104,10 +105,11 @@ and
 
 Any of the above plus
 [CGit][],
+[Forgejo][],
+[FusionForge][],
 [Gerrit][],
-[GitWeb][] (which comes with Git),
 and
-[Forgejo][]
+[GitWeb][]
 
 If you have a supported host
 with their host ID in the hostname,
@@ -174,6 +176,7 @@ I know all of you can make this way better than me.
 
 [^cgit]: Linked to `cgit`  
 [^forgejo]: Linked to `forgejo`  
+[^fusionforge]: Linked to `fusionforge`  
 [^gitlab]: Linked to `gitlab`  
 [^sourceforge]: [SourceForge][] does not support blame or line numbers.  
 
@@ -190,6 +193,7 @@ I know all of you can make this way better than me.
 [codeberg]: https://codeberg.org
 [eclipse]: https://www.eclipse.org
 [forgejo]: https://forgejo.org
+[fusionforge]: https://en.wikipedia.org/wiki/GForge#FusionForge
 [gerrit]: https://www.gerritcodereview.com
 [gitea]: https://gitea.com
 [gitee]: https://gitee.com
@@ -201,6 +205,7 @@ I know all of you can make this way better than me.
 [kde]: https://invent.kde.org
 [kernel.org]: https://kernel.org
 [launchpad]: https://code.launchpad.net
+[ourproject.org]: https://ourproject.org
 [pagure]: https://pagure.io
 [phabricator]: https://phacility.com/phabricator
 [phorge]: https://we.phorge.it
