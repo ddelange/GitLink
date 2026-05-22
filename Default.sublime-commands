@@ -13,7 +13,7 @@
         "args": {
             "line": false,
             "web": false,
-            "blame": false
+            "blame": false,
         }
     },
     {
@@ -22,7 +22,7 @@
         "args": {
             "line": false,
             "web": true,
-            "blame": false
+            "blame": false,
         }
     },
     {
@@ -31,7 +31,7 @@
         "args": {
             "line": true,
             "web": false,
-            "blame": false
+            "blame": false,
         }
     },
     {
@@ -40,7 +40,7 @@
         "args": {
             "line": true,
             "web": true,
-            "blame": false
+            "blame": false,
         }
     },
     {
@@ -49,7 +49,7 @@
         "args": {
             "line": false,
             "web": false,
-            "blame": true
+            "blame": true,
         }
     },
     {
@@ -58,7 +58,7 @@
         "args": {
             "line": false,
             "web": true,
-            "blame": true
+            "blame": true,
         }
     },
     {
@@ -67,7 +67,7 @@
         "args": {
             "line": true,
             "web": false,
-            "blame": true
+            "blame": true,
         }
     },
     {
@@ -76,7 +76,7 @@
         "args": {
             "line": true,
             "web": true,
-            "blame": true
+            "blame": true,
         }
     }
 ]
