@@ -978,7 +978,7 @@ class RepoParserGitLab(TestCase):
         self.assertEqual('https://gitlab.com/user/repo/-/blame/master/README.md?plain=1#L5-7',
                          parse_result.get_blame_url('README.md', 'master', 5, 7))
 
-    def test_ssh(self):
+    def test_altssh(self):
         parse_result = RepositoryParser('ssh://git@altssh.gitlab.com/user/repo.git')
         self.assertEqual('ssh', parse_result.scheme)
         self.assertEqual('gitlab.com', parse_result.domain)
