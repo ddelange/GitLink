@@ -15,9 +15,7 @@ jobs:
           - "windows-latest"
     runs-on: ${{ matrix.os }}
     steps:
-      - uses: actions/checkout@v6
-        with:
-          submodules: recursive
+      - uses: actions/checkout@v7
       - uses: SublimeText/UnitTesting/actions/setup@v1
         with:
           package-name: GitLink
