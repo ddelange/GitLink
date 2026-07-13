@@ -80,6 +80,7 @@ Repository hosts are listed alphabetically.
 Debian [Salsa][][^gitlab],
 [Eclipse][][^gitlab],
 [Fedora Forge][][^forgejo],
+[Freedesktop.org][][^gitlab],
 [GitHub][],
 [GitLab][],
 [Gitea][],
@@ -196,6 +197,7 @@ I know all of you can make this way better than me.
 [eclipse]: https://www.eclipse.org
 [fedora forge]: https://forge.fedoraproject.org
 [forgejo]: https://forgejo.org
+[freedesktop.org]: https://gitlab.freedesktop.org
 [fusionforge]: https://en.wikipedia.org/wiki/GForge#FusionForge
 [gerrit]: https://www.gerritcodereview.com
 [gitea]: https://gitea.com
